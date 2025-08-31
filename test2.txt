@@ -1,8 +1,16 @@
 CREATING A NORMAL FILE IN FILE FOLDER 
-THIS WILL BE MADE KNOWN BY GIT USING THE COMMAND        git init
+WE MAKE LET GIT KNOW THIS USING THE COMMAND        git init
 FOLLOW THE REQUIRED PROCESSES TO ADD THE FILES INTO REPO OF GIT
 1)git remote add origin paste the link of origin from git
-2)git branch [shows the status of branch ]
+2)git branch -a [shows the status of branch ]
 NOTE:- THE BRANCH WILL BE CHANGED FROM MAIN TO SOMEOTHER USUALLY MASTER IF YOU NEED PUSH THE SAME BRANCH OTHERWISE CHANGE THE BRANCH FROM MASTER TO MAIN USING THE COMMANG git branch -M main
 3)git push origin main
+
+
+$$$ BRANCHES
+1)in main create the branch in git
+2)comment git pull in VS code
+3)git checkout gitbranch1
+4)git branch -a //USED TO CHECK THE CURRENT BRANCH ON WHAT WE ARE WORKING ON
+
 
